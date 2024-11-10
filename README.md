@@ -2,7 +2,7 @@
 
 ## Tareas Pendientes
 
-### Componentes
+### Componentes.
 
 - [ ] Refactorizar el formulario para desacoplar el componente de la landing
 - [ ] Crear un componente para la edición con las opciones de color, algoritmo y demás
